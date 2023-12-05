@@ -1,0 +1,1568 @@
+[
+    {
+        "qas": [
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What is the location of Bhairavanath Temple within Bhaktapur?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath temple is one of the temples that lies at the central of Bhaktapur, Taumadhi  Square",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Could you describe where the Bhairavanath Temple is in Bhaktapur?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath temple is one of the temples that lies at the central of Bhaktapur, Taumadhi  Square.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "I'm trying to find out the specific location of the Bhairavanath Temple in Bhaktapur.",
+                "answers": [
+                    {
+                        "text": "Bhairavanath temple is one of the temples that lies at the central of Bhaktapur, Taumadhi  Square.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you pinpoint where exactly the Bhairavanath Temple is situated within Bhaktapur?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath temple is one of the temples that lies at the central of Bhaktapur, Taumadhi  Square.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Hey, do you happen to know the exact spot of the Bhairavanath Temple in Bhaktapur?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath temple is one of the temples that lies at the central of Bhaktapur, Taumadhi  Square.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What architectural style characterizes the construction of Bhairavanath Temple?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath Temple is built in the pagoda style and It is three-storey",
+                        "answer_start": 102
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "How would you define the architectural style seen in the construction of Bhairavanath Temple?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath Temple is built in the pagoda style and It is three-storey",
+                        "answer_start": 102
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What specific architectural features define the construction style of Bhairavanath Temple?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath Temple is built in the pagoda style and It is three-storey",
+                        "answer_start": 102
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you describe the architectural design that's typical of Bhairavanath Temple's construction?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath Temple is built in the pagoda style and It is three-storey",
+                        "answer_start": 102
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "In what architectural manner was the Bhairavanath Temple built?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath Temple is built in the pagoda style and It is three-storey",
+                        "answer_start": 102
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "what is unique thing about the temple?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath Temple is built in the pagoda style and It is three-storey",
+                        "answer_start": 102
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "How many storeys does Bhairavanath Temple comprise?",
+                "answers": [
+                    {
+                        "text": "It is three-storey.",
+                        "answer_start": 155
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What's the count of floors within the Bhairavanath Temple?",
+                "answers": [
+                    {
+                        "text": "It is three-storey.",
+                        "answer_start": 155
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Could you specify the number of levels present in the Bhairavanath Temple?",
+                "answers": [
+                    {
+                        "text": "It is three-storey.",
+                        "answer_start": 155
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "How many stories or levels make up the Bhairavanath Temple?",
+                "answers": [
+                    {
+                        "text": "It is three-storey.",
+                        "answer_start": 155
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you tell me the total number of storeys that form the Bhairavanath Temple?",
+                "answers": [
+                    {
+                        "text": "It is three-storey.",
+                        "answer_start": 155
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Which deity is Bhairavanath Temple devoted to?",
+                "answers": [
+                    {
+                        "text": "It is one of the temple devoted to Lord Bhairava",
+                        "answer_start": 175
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "To which god or deity is Bhairavanath Temple dedicated?",
+                "answers": [
+                    {
+                        "text": "It is one of the temple devoted to Lord Bhairava",
+                        "answer_start": 175
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Whom does Bhairavanath Temple specifically venerate or worship?",
+                "answers": [
+                    {
+                        "text": "It is one of the temple devoted to Lord Bhairava",
+                        "answer_start": 175
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Which divine figure is the focus of devotion at Bhairavanath Temple?",
+                "answers": [
+                    {
+                        "text": "It is one of the temple devoted to Lord Bhairava",
+                        "answer_start": 175
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you tell me the deity that Bhairavanath Temple is dedicated to?",
+                "answers": [
+                    {
+                        "text": "It is one of the temple devoted to Lord Bhairava",
+                        "answer_start": 175
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What distinguishes the temple's west facade facing the square?",
+                "answers": [
+                    {
+                        "text": "there is no entrance on the temple's lengthy west facade that faces the square",
+                        "answer_start": 289
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What notable characteristics mark the west-facing facade of the temple towards the square?",
+                "answers": [
+                    {
+                        "text": "there is no entrance on the temple's lengthy west facade that faces the square",
+                        "answer_start": 289
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Could you describe the unique attributes of the temple's west side that faces the square?",
+                "answers": [
+                    {
+                        "text": "there is no entrance on the temple's lengthy west facade that faces the square",
+                        "answer_start": 289
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What sets apart the west facade of the temple that's directed towards the square?",
+                "answers": [
+                    {
+                        "text": "there is no entrance on the temple's lengthy west facade that faces the square",
+                        "answer_start": 289
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you elaborate on the specific traits or distinguishing elements of the temple's west front that overlooks the square?",
+                "answers": [
+                    {
+                        "text": "there is no entrance on the temple's lengthy west facade that faces the square",
+                        "answer_start": 289
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "From which direction do priests access the interior of the temple?",
+                "answers": [
+                    {
+                        "text": "priests access the interior from the south",
+                        "answer_start": 378
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "How do priests typically access the interior of the temple in terms of direction?",
+                "answers": [
+                    {
+                        "text": "priests access the interior from the south",
+                        "answer_start": 378
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "In which direction do the priests usually enter the temple to access its interior?",
+                "answers": [
+                    {
+                        "text": "priests access the interior from the south",
+                        "answer_start": 378
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "From what direction do the priests traditionally approach and enter the temple?",
+                "answers": [
+                    {
+                        "text": "priests access the interior from the south",
+                        "answer_start": 378
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you specify the customary direction from which priests enter the temple to access its interior?",
+                "answers": [
+                    {
+                        "text": "priests access the interior from the south",
+                        "answer_start": 378
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What is found on the ground-level shrine inside the temple?",
+                "answers": [
+                    {
+                        "text": "a ground-level shrine with Bhairav depicted in miniature on a small metal throne",
+                        "answer_start": 474
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": ". What specific items or objects are present within the ground-level shrine inside the temple?",
+                "answers": [
+                    {
+                        "text": "a ground-level shrine with Bhairav depicted in miniature on a small metal throne",
+                        "answer_start": 474
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": ". Could you describe what is housed within the shrine situated at ground level inside the temple?",
+                "answers": [
+                    {
+                        "text": "a ground-level shrine with Bhairav depicted in miniature on a small metal throne",
+                        "answer_start": 474
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What can be seen or discovered inside the ground-level shrine within the temple?",
+                "answers": [
+                    {
+                        "text": "a ground-level shrine with Bhairav depicted in miniature on a small metal throne",
+                        "answer_start": 474
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you detail what's typically placed within the shrine located at the temple's ground level?",
+                "answers": [
+                    {
+                        "text": "a ground-level shrine with Bhairav depicted in miniature on a small metal throne",
+                        "answer_start": 474
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What is depicted on a small metal throne within the temple?",
+                "answers": [
+                    {
+                        "text": "Bhairav  depicted in miniature on a small metal throne",
+                        "answer_start": 501
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What imagery or representation is featured on the small metal throne inside the temple?",
+                "answers": [
+                    {
+                        "text": "Bhairav depicted in miniature on a small metal throne",
+                        "answer_start": 501
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Could you describe what is depicted on the miniature metal throne situated within the temple?",
+                "answers": [
+                    {
+                        "text": "Bhairav depicted in miniature on a small metal throne",
+                        "answer_start": 501
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What specific design or symbol can be seen on the small metal throne inside the temple?",
+                "answers": [
+                    {
+                        "text": "Bhairav depicted in miniature on a small metal throne",
+                        "answer_start": 501
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you elaborate on the visual depiction found on the small metal throne within the temple?",
+                "answers": [
+                    {
+                        "text": "Bhairav depicted in miniature on a small metal throne",
+                        "answer_start": 501
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What is the recurring issue related to a small statue within the temple?",
+                "answers": [
+                    {
+                        "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+                        "answer_start": 556
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What ongoing problem is associated with the small statue inside the temple?",
+                "answers": [
+                    {
+                        "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+                        "answer_start": 556
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Could you describe the persistent issue linked to the small statue within the temple?",
+                "answers": [
+                    {
+                        "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+                        "answer_start": 556
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What is the continual concern regarding the small statue located within the temple?",
+                "answers": [
+                    {
+                        "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+                        "answer_start": 556
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you explain the recurring challenge connected to the small statue inside the temple?",
+                "answers": [
+                    {
+                        "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+                        "answer_start": 556
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What elements are portrayed on hammered copper plates beside the deity?",
+                "answers": [
+                    {
+                        "text": "hammered copper plates depicting Bhairav's eyes, two pairs of hands, and two dogs and his faithful companions",
+                        "answer_start": 665
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Could you describe what symbols or elements are showcased on the hammered copper plates next to the deity?",
+                "answers": [
+                    {
+                        "text": "hammered copper plates depicting Bhairav's eyes, two pairs of hands, and two dogs and his faithful companions",
+                        "answer_start": 665
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What specific imagery or elements are portrayed on the hammered copper plates positioned beside the deity?",
+                "answers": [
+                    {
+                        "text": "hammered copper plates depicting Bhairav's eyes, two pairs of hands, and two dogs and his faithful companions",
+                        "answer_start": 665
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you detail the symbols or representations depicted on the hammered copper plates adjacent to the deity?",
+                "answers": [
+                    {
+                        "text": "hammered copper plates depicting Bhairav's eyes, two pairs of hands, and two dogs and his faithful companions",
+                        "answer_start": 665
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What is depicted or illustrated on the hammered copper plates placed beside the deity?",
+                "answers": [
+                    {
+                        "text": "hammered copper plates depicting Bhairav's eyes, two pairs of hands, and two dogs and his faithful companions",
+                        "answer_start": 665
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What purpose does the makeshift wooden barricade serve within the temple's interior?",
+                "answers": [
+                    {
+                        "text": "At present, perhaps to discourage theft, the ground-level shrine is blocked from casual access by a makeshift wooden barricade",
+                        "answer_start": 776
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What role or purpose does the impromptu wooden barricade serve inside the temple?",
+                "answers": [
+                    {
+                        "text": "At present, perhaps to discourage theft, the ground-level shrine is blocked from casual access by a makeshift wooden barricade",
+                        "answer_start": 776
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Could you explain the reason behind the makeshift wooden barricade within the temple's interior?",
+                "answers": [
+                    {
+                        "text": "At present, perhaps to discourage theft, the ground-level shrine is blocked from casual access by a makeshift wooden barricade",
+                        "answer_start": 776
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What function is fulfilled by the temporary wooden barricade found inside the temple?",
+                "answers": [
+                    {
+                        "text": "At present, perhaps to discourage theft, the ground-level shrine is blocked from casual access by a makeshift wooden barricade",
+                        "answer_start": 776
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you describe the purpose or use of the makeshift wooden barricade within the temple's interior?",
+                "answers": [
+                    {
+                        "text": "At present, perhaps to discourage theft, the ground-level shrine is blocked from casual access by a makeshift wooden barricade",
+                        "answer_start": 776
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Who noted the frequent theft and replacement of the small statue within the temple?",
+                "answers": [
+                    {
+                        "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+                        "answer_start": 556
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Who documented or observed the regular instances of theft and replacement involving the small statue within the temple?",
+                "answers": [
+                    {
+                        "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+                        "answer_start": 556
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Could you identify the person who noticed the recurring theft and replacement of the small statue inside the temple?",
+                "answers": [
+                    {
+                        "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+                        "answer_start": 556
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Who specifically reported or witnessed the frequent stealing and replacement of the small statue within the temple?",
+                "answers": [
+                    {
+                        "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+                        "answer_start": 556
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you mention the individual who observed the repetitive theft and replacement of the small statue within the temple?",
+                "answers": [
+                    {
+                        "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+                        "answer_start": 556
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": ".Who is the deity that the temple is dedicated to?",
+                "answers": [
+                    {
+                        "text": "The temple is dedicated to lord Bhairav, which is supposed to be the most ferocious form of Lord Shiva",
+                        "answer_start": 904
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Which specific divine figure is the focus of worship within this temple?",
+                "answers": [
+                    {
+                        "text": "The temple is dedicated to lord Bhairav, which is supposed to be the most ferocious form of Lord Shiva",
+                        "answer_start": 904
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "To whom is this temple primarily devoted in terms of a deity?",
+                "answers": [
+                    {
+                        "text": "The temple is dedicated to lord Bhairav, which is supposed to be the most ferocious form of Lord Shiva",
+                        "answer_start": 904
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What particular god or goddess is honored and revered within the temple's dedication?",
+                "answers": [
+                    {
+                        "text": "The temple is dedicated to lord Bhairav, which is supposed to be the most ferocious form of Lord Shiva",
+                        "answer_start": 904
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Who is the specific deity that this temple is set aside for in terms of worship and dedication?",
+                "answers": [
+                    {
+                        "text": "The temple is dedicated to lord Bhairav, which is supposed to be the most ferocious form of Lord Shiva",
+                        "answer_start": 904
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": ".What are the alternative names for the Bhairavanath established in this temple?",
+                "answers": [
+                    {
+                        "text": "prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1104
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you provide other titles or names used to refer to the Bhairavanath worshipped in this specific temple?",
+                "answers": [
+                    {
+                        "text": "prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1104
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Are there different names or designations attributed to the Bhairavanath deity established within this temple?",
+                "answers": [
+                    {
+                        "text": "prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1104
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Could you share alternative titles or aliases linked to the Bhairavanath deity specifically revered in this temple?",
+                "answers": [
+                    {
+                        "text": "prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1104
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What are some other names or labels associated with the Bhairavanath deity honored in this particular temple?",
+                "answers": [
+                    {
+                        "text": "prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1104
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "How is Bhairav's character described in terms of temperament?",
+                "answers": [
+                    {
+                        "text": "He is somehow famous for his obstreperous and stubborn character.",
+                        "answer_start": 1157
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "How would you depict Bhairav's temperament or nature based on descriptions?",
+                "answers": [
+                    {
+                        "text": "He is somehow famous for his obstreperous and stubborn character.",
+                        "answer_start": 1157
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "How would you depict Bhairav's temperament or nature based on descriptions?",
+                "answers": [
+                    {
+                        "text": "He is somehow famous for his obstreperous and stubborn character.",
+                        "answer_start": 1157
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you elaborate on the portrayal of Bhairav's temperament or disposition?",
+                "answers": [
+                    {
+                        "text": "He is somehow famous for his obstreperous and stubborn character.",
+                        "answer_start": 1157
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "",
+                "answers": [
+                    {
+                        "text": "He is somehow famous for his obstreperous and stubborn character.",
+                        "answer_start": 1157
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "In what manner is Bhairav's temperament described or characterized?",
+                "answers": [
+                    {
+                        "text": "He is somehow famous for his obstreperous and stubborn character",
+                        "answer_start": 1157
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": ".What particular interest does Bhairav have, and what is he associated with?",
+                "answers": [
+                    {
+                        "text": "Bhairav has a particular fascination with machines and is often thought to inhabit wheels",
+                        "answer_start": 1223
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What specific inclinations or areas of interest are affiliated with Bhairav, and what is he commonly linked with?",
+                "answers": [
+                    {
+                        "text": "Bhairav has a particular fascination with machines and is often thought to inhabit wheels",
+                        "answer_start": 1223
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Could you elaborate on the particular pursuits or spheres of association that Bhairav is known for?",
+                "answers": [
+                    {
+                        "text": "Bhairav has a particular fascination with machines and is often thought to inhabit wheels",
+                        "answer_start": 1223
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What specific interests does Bhairav hold, and with what aspects or domains is he typically associated?",
+                "answers": [
+                    {
+                        "text": "Bhairav has a particular fascination with machines and is often thought to inhabit wheels",
+                        "answer_start": 1223
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What particular focus or inclinations does Bhairav possess, and what affiliations are commonly tied to him?",
+                "answers": [
+                    {
+                        "text": "Bhairav has a particular fascination with machines and is often thought to inhabit wheels",
+                        "answer_start": 1223
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "In what form is Bhairav believed to inhabit wheels, and how are these versions of the god perceived?",
+                "answers": [
+                    {
+                        "text": "often thought to inhabit wheels, with different versions of the god inhabiting different wheels on the same chariot",
+                        "answer_start": 1281
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What manifestation does Bhairav take when connected to wheels, and how do people perceive this aspect of the deity?",
+                "answers": [
+                    {
+                        "text": "often thought to inhabit wheels, with different versions of the god inhabiting different wheels on the same chariot",
+                        "answer_start": 1281
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "How is Bhairav envisioned when linked with wheels, and what interpretations are attributed to these depictions of the god?",
+                "answers": [
+                    {
+                        "text": "often thought to inhabit wheels, with different versions of the god inhabiting different wheels on the same chariot",
+                        "answer_start": 1281
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What form does Bhairav adopt when associated with wheels, and how do individuals perceive this specific representation of the deity?",
+                "answers": [
+                    {
+                        "text": "often thought to inhabit wheels, with different versions of the god inhabiting different wheels on the same chariot",
+                        "answer_start": 1281
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "When Bhairav is associated with wheels, what form does the deity assume, and how do believers interpret this particular manifestation?",
+                "answers": [
+                    {
+                        "text": "often thought to inhabit wheels, with different versions of the god inhabiting different wheels on the same chariot",
+                        "answer_start": 1281
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What significant event uses a chariot stored against the temple's north wall during the annual Bisket-Jatra festival?",
+                "answers": [
+                    {
+                        "text": "a chariot used in the annual Bisket-Jatra festival is stored, dismantled, against the temple's north wall",
+                        "answer_start": 1426
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What important ritual occurs with a chariot positioned against the temple's north wall during the yearly Bisket-Jatra festival?",
+                "answers": [
+                    {
+                        "text": "a chariot used in the annual Bisket-Jatra festival is stored, dismantled, against the temple's north wall",
+                        "answer_start": 1426
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "During the annual Bisket-Jatra festival, what major ceremony involves utilizing a chariot placed against the north wall of the temple?",
+                "answers": [
+                    {
+                        "text": "a chariot used in the annual Bisket-Jatra festival is stored, dismantled, against the temple's north wall",
+                        "answer_start": 1426
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Could you explain the crucial ceremony that involves the use of a chariot placed against the temple's northern wall in the Bisket-Jatra festival?",
+                "answers": [
+                    {
+                        "text": "a chariot used in the annual Bisket-Jatra festival is stored, dismantled, against the temple's north wall",
+                        "answer_start": 1426
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What pivotal event is connected to a chariot stored against the north wall of the temple during the yearly Bisket-Jatra festival?",
+                "answers": [
+                    {
+                        "text": "a chariot used in the annual Bisket-Jatra festival is stored, dismantled, against the temple's north wall",
+                        "answer_start": 1426
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Where is the chariot used in the festival stored when not in use?",
+                "answers": [
+                    {
+                        "text": "At the Bhairavanath temple, a chariot used in the annual Bisket-Jatra festival is stored, dismantled, against the temple's north wall",
+                        "answer_start": 1398
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "When the festival is not ongoing, where is the chariot utilized in the celebration typically kept?",
+                "answers": [
+                    {
+                        "text": "At the Bhairavanath temple, a chariot used in the annual Bisket-Jatra festival is stored, dismantled, against the temple's north wall",
+                        "answer_start": 1398
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "During periods of inactivity in the festival, where is the chariot that plays a role in the event usually stored?",
+                "answers": [
+                    {
+                        "text": "At the Bhairavanath temple, a chariot used in the annual Bisket-Jatra festival is stored, dismantled, against the temple's north wall",
+                        "answer_start": 1398
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "When not in use for the festival, where is the chariot, an integral part of the celebration, usually housed or placed?",
+                "answers": [
+                    {
+                        "text": "At the Bhairavanath temple, a chariot used in the annual Bisket-Jatra festival is stored, dismantled, against the temple's north wall",
+                        "answer_start": 1398
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Where is the customary storage location for the chariot utilized in the festival when it's not actively employed?",
+                "answers": [
+                    {
+                        "text": "At the Bhairavanath temple, a chariot used in the annual Bisket-Jatra festival is stored, dismantled, against the temple's north wall",
+                        "answer_start": 1398
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What deity does Bhairavanath represent in relation to Lord Shiva's forms?",
+                "answers": [
+                    {
+                        "text": "The Bhairavanath established in this temple is a formidable incarnation of lord shiva, who also prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1008
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "In the spectrum of Lord Shiva's manifestations, which aspect does Bhairavanath symbolize among his diverse forms?",
+                "answers": [
+                    {
+                        "text": "The Bhairavanath established in this temple is a formidable incarnation of lord shiva, who also prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1008
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Within the array of Lord Shiva's representations, which specific aspect does Bhairavanath embody among his various forms?",
+                "answers": [
+                    {
+                        "text": "The Bhairavanath established in this temple is a formidable incarnation of lord shiva, who also prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1008
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Concerning the myriad forms of Lord Shiva, what specific role or aspect does Bhairavanath signify among these manifestations?",
+                "answers": [
+                    {
+                        "text": "The Bhairavanath established in this temple is a formidable incarnation of lord shiva, who also prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1008
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Among the diverse representations of Lord Shiva, what particular aspect does Bhairavanath epitomize in relation to his various forms?",
+                "answers": [
+                    {
+                        "text": "The Bhairavanath established in this temple is a formidable incarnation of lord shiva, who also prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1008
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What attribute of Bhairav's character is emphasized regarding his fascination with machines?",
+                "answers": [
+                    {
+                        "text": "Bhairav has a particular fascination with machines",
+                        "answer_start": 1223
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What aspect of Bhairav's nature is highlighted in connection to his interest or inclination towards machinery?",
+                "answers": [
+                    {
+                        "text": "Bhairav has a particular fascination with machines",
+                        "answer_start": 1223
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "In terms of Bhairav's character, which specific quality is underscored concerning his fascination with mechanical devices?",
+                "answers": [
+                    {
+                        "text": "Bhairav has a particular fascination with machines",
+                        "answer_start": 1223
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Regarding Bhairav's temperament, which characteristic stands out concerning his keenness or attraction to machines?",
+                "answers": [
+                    {
+                        "text": "Bhairav has a particular fascination with machines",
+                        "answer_start": 1223
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What particular trait of Bhairav's character is emphasized in relation to his fondness for mechanisms or technological devices?",
+                "answers": [
+                    {
+                        "text": "Bhairav has a particular fascination with machines",
+                        "answer_start": 1223
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What aspect of Bhairavanath's character is highlighted by his association with the chariot used in the festival?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath's association with the chariot used in the festival highlights his connection to the annual Bisket-Jatra festival",
+                        "answer_start": 1533
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What facet of Bhairavanath's persona is emphasized through his connection to the chariot employed during the festival?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath's association with the chariot used in the festival highlights his connection to the annual Bisket-Jatra festival",
+                        "answer_start": 1533
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "In Bhairavanath's character, which feature is accentuated by his affiliation with the festival's chariot?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath's association with the chariot used in the festival highlights his connection to the annual Bisket-Jatra festival",
+                        "answer_start": 1533
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Concerning Bhairavanath's nature, which specific aspect is underscored by his association with the festival's chariot?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath's association with the chariot used in the festival highlights his connection to the annual Bisket-Jatra festival",
+                        "answer_start": 1533
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What particular element of Bhairavanath's character is brought to focus by his link to the chariot utilized in the festival?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath's association with the chariot used in the festival highlights his connection to the annual Bisket-Jatra festival",
+                        "answer_start": 1533
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "How is Bhairavanath described in terms of his connection to Lord Shiva's various forms and manifestations?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath established in this temple is a formidable incarnation of lord shiva, who also prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1012
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What descriptions outline Bhairavanath's relationship with the diverse forms and incarnations of Lord Shiva?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath established in this temple is a formidable incarnation of lord shiva, who also prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1012
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "In what manner is Bhairavanath depicted concerning his association with the myriad forms and manifestations of Lord Shiva?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath established in this temple is a formidable incarnation of lord shiva, who also prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1012
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "How is Bhairavanath characterized regarding his connection to the various forms and embodiments of Lord Shiva?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath established in this temple is a formidable incarnation of lord shiva, who also prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1012
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What depictions or portrayals describe Bhairavanath's link to the diverse forms and manifestations of Lord Shiva?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath established in this temple is a formidable incarnation of lord shiva, who also prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1012
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you say something about the statue of Bhairava in this temple?",
+                "answers": [
+                    {
+                        "text": "The statue of Lord Bhairav is about 12 feet long and is one of the largest statues in Kathmandu Valley. Thousands of people visit Bhairavanath temple during Bhairav Ashtami or Bhairav Jayanthi as it is celebrated religiously",
+                        "answer_start": 1661
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Could you provide information about the Bhairava statue housed within this temple?",
+                "answers": [
+                    {
+                        "text": "The statue of Lord Bhairav is about 12 feet long and is one of the largest statues in Kathmandu Valley. Thousands of people visit Bhairavanath temple during Bhairav Ashtami or Bhairav Jayanthi as it is celebrated religiously",
+                        "answer_start": 1661
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you share details regarding the statue of Bhairava situated in this temple?",
+                "answers": [
+                    {
+                        "text": "The statue of Lord Bhairav is about 12 feet long and is one of the largest statues in Kathmandu Valley. Thousands of people visit Bhairavanath temple during Bhairav Ashtami or Bhairav Jayanthi as it is celebrated religiously",
+                        "answer_start": 1661
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "I'm interested in learning about the Bhairava sculpture present in this temple. Can you provide some insights?",
+                "answers": [
+                    {
+                        "text": "The statue of Lord Bhairav is about 12 feet long and is one of the largest statues in Kathmandu Valley. Thousands of people visit Bhairavanath temple during Bhairav Ashtami or Bhairav Jayanthi as it is celebrated religiously",
+                        "answer_start": 1661
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Could you describe the Bhairava statue that resides within this temple?",
+                "answers": [
+                    {
+                        "text": "The statue of Lord Bhairav is about 12 feet long and is one of the largest statues in Kathmandu Valley. Thousands of people visit Bhairavanath temple during Bhairav Ashtami or Bhairav Jayanthi as it is celebrated religiously",
+                        "answer_start": 1661
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Was this temple damaged during the earthquake in November 2015?",
+                "answers": [
+                    {
+                        "text": "Even though the temple was slightly damaged during the earthquake in November 2015, it still has retrained most of structure",
+                        "answer_start": 1888
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Did the temple undergo damage as a result of the earthquake that occurred in November 2015?",
+                "answers": [
+                    {
+                        "text": "Even though the temple was slightly damaged during the earthquake in November 2015, it still has retrained most of structure",
+                        "answer_start": 1888
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Was this temple affected by the earthquake that took place in November 2015?",
+                "answers": [
+                    {
+                        "text": "Even though the temple was slightly damaged during the earthquake in November 2015, it still has retrained most of structure",
+                        "answer_start": 1888
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Did the earthquake occurring in November 2015 cause any harm or destruction to this temple?",
+                "answers": [
+                    {
+                        "text": "Even though the temple was slightly damaged during the earthquake in November 2015, it still has retrained most of structure",
+                        "answer_start": 1888
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Was there any impact on this temple due to the earthquake in November 2015?",
+                "answers": [
+                    {
+                        "text": "Even though the temple was slightly damaged during the earthquake in November 2015, it still has retrained most of structure",
+                        "answer_start": 1888
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "When was the temple first inaugurated?",
+                "answers": [
+                    {
+                        "text": "The temple was first inaugurated by King Ananda Deva in the 13th century. However, that area, before the establishment of the temple was already popular for the Shaivism pilgrims. It was well known as Lalitmaheshwor. Regarding which there are inscriptions found in the temple. But, it was definitely not triple-roofed, then",
+                        "answer_start": 2070
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What is the initial inauguration date of the temple?",
+                "answers": [
+                    {
+                        "text": "The temple was first inaugurated by King Ananda Deva in the 13th century. However, that area, before the establishment of the temple was already popular for the Shaivism pilgrims. It was well known as Lalitmaheshwor. Regarding which there are inscriptions found in the temple. But, it was definitely not triple-roofed, then",
+                        "answer_start": 2070
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you specify the date when the temple was first inaugurated?",
+                "answers": [
+                    {
+                        "text": "The temple was first inaugurated by King Ananda Deva in the 13th century. However, that area, before the establishment of the temple was already popular for the Shaivism pilgrims. It was well known as Lalitmaheshwor. Regarding which there are inscriptions found in the temple. But, it was definitely not triple-roofed, then",
+                        "answer_start": 2070
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "When was the official opening of the temple conducted for the first time?",
+                "answers": [
+                    {
+                        "text": "The temple was first inaugurated by King Ananda Deva in the 13th century. However, that area, before the establishment of the temple was already popular for the Shaivism pilgrims. It was well known as Lalitmaheshwor. Regarding which there are inscriptions found in the temple. But, it was definitely not triple-roofed, then",
+                        "answer_start": 2070
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "What is the historical date marking the temple's initial dedication or inauguration?",
+                "answers": [
+                    {
+                        "text": "The temple was first inaugurated by King Ananda Deva in the 13th century. However, that area, before the establishment of the temple was already popular for the Shaivism pilgrims. It was well known as Lalitmaheshwor. Regarding which there are inscriptions found in the temple. But, it was definitely not triple-roofed, then",
+                        "answer_start": 2070
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Say more about the history of temple?",
+                "answers": [
+                    {
+                        "text": "The temple was first inaugurated by King Ananda Deva in the 13th century. However, that area, before the establishment of the temple was already popular for the Shaivism pilgrims. It was well known as Lalitmaheshwor. Regarding which there are inscriptions found in the temple. But, it was definitely not triple-roofed, then. During the reign of King Vishwa Malla, the temple was gracefully restored in a one-storeyed temple.After, King Jagatjyoti Malla decorated it with golden roofs. Likewise, in N.S. 788, King Jagat Prakash Malla established his own image along with his minister Chandrashekhar in the temple while having a grand worshipping. Later on, King Bhupatindra Malla modified it into a triple roofed temple at around N.S. 837-38 (1718 AD) and added the seven golden pinnacles in it. The reconstruction took time after the engineering of the Nyatapola temple. By worse luck, the devasting earthquake of 1934AD collapsed it.  And optimistically reassembled in the same structure. The ruinous earthquake of April 2015 again, made this temple renovated. It also destroyed the tiny way, passing through the betal temple. That ultimately leads toward the interior part of the Bhairavanath temple",
+                        "answer_start": 2070
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Could you provide further details regarding the temple's historical background?",
+                "answers": [
+                    {
+                        "text": "The temple was first inaugurated by King Ananda Deva in the 13th century. However, that area, before the establishment of the temple was already popular for the Shaivism pilgrims. It was well known as Lalitmaheshwor. Regarding which there are inscriptions found in the temple. But, it was definitely not triple-roofed, then. During the reign of King Vishwa Malla, the temple was gracefully restored in a one-storeyed temple.After, King Jagatjyoti Malla decorated it with golden roofs. Likewise, in N.S. 788, King Jagat Prakash Malla established his own image along with his minister Chandrashekhar in the temple while having a grand worshipping. Later on, King Bhupatindra Malla modified it into a triple roofed temple at around N.S. 837-38 (1718 AD) and added the seven golden pinnacles in it. The reconstruction took time after the engineering of the Nyatapola temple. By worse luck, the devasting earthquake of 1934AD collapsed it.  And optimistically reassembled in the same structure. The ruinous earthquake of April 2015 again, made this temple renovated. It also destroyed the tiny way, passing through the betal temple. That ultimately leads toward the interior part of the Bhairavanath temple",
+                        "answer_start": 2070
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you elaborate more on the temple's past and its historical narrative?",
+                "answers": [
+                    {
+                        "text": "The temple was first inaugurated by King Ananda Deva in the 13th century. However, that area, before the establishment of the temple was already popular for the Shaivism pilgrims. It was well known as Lalitmaheshwor. Regarding which there are inscriptions found in the temple. But, it was definitely not triple-roofed, then. During the reign of King Vishwa Malla, the temple was gracefully restored in a one-storeyed temple.After, King Jagatjyoti Malla decorated it with golden roofs. Likewise, in N.S. 788, King Jagat Prakash Malla established his own image along with his minister Chandrashekhar in the temple while having a grand worshipping. Later on, King Bhupatindra Malla modified it into a triple roofed temple at around N.S. 837-38 (1718 AD) and added the seven golden pinnacles in it. The reconstruction took time after the engineering of the Nyatapola temple. By worse luck, the devasting earthquake of 1934AD collapsed it.  And optimistically reassembled in the same structure. The ruinous earthquake of April 2015 again, made this temple renovated. It also destroyed the tiny way, passing through the betal temple. That ultimately leads toward the interior part of the Bhairavanath temple",
+                        "answer_start": 2070
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "I'd love to learn additional information about the temple's history. Could you expand on that?",
+                "answers": [
+                    {
+                        "text": "The temple was first inaugurated by King Ananda Deva in the 13th century. However, that area, before the establishment of the temple was already popular for the Shaivism pilgrims. It was well known as Lalitmaheshwor. Regarding which there are inscriptions found in the temple. But, it was definitely not triple-roofed, then. During the reign of King Vishwa Malla, the temple was gracefully restored in a one-storeyed temple.After, King Jagatjyoti Malla decorated it with golden roofs. Likewise, in N.S. 788, King Jagat Prakash Malla established his own image along with his minister Chandrashekhar in the temple while having a grand worshipping. Later on, King Bhupatindra Malla modified it into a triple roofed temple at around N.S. 837-38 (1718 AD) and added the seven golden pinnacles in it. The reconstruction took time after the engineering of the Nyatapola temple. By worse luck, the devasting earthquake of 1934AD collapsed it.  And optimistically reassembled in the same structure. The ruinous earthquake of April 2015 again, made this temple renovated. It also destroyed the tiny way, passing through the betal temple. That ultimately leads toward the interior part of the Bhairavanath temple",
+                        "answer_start": 2070
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Can you offer more insights into the temple's history, providing a deeper understanding of its past events and evolution?",
+                "answers": [
+                    {
+                        "text": "The temple was first inaugurated by King Ananda Deva in the 13th century. However, that area, before the establishment of the temple was already popular for the Shaivism pilgrims. It was well known as Lalitmaheshwor. Regarding which there are inscriptions found in the temple. But, it was definitely not triple-roofed, then. During the reign of King Vishwa Malla, the temple was gracefully restored in a one-storeyed temple.After, King Jagatjyoti Malla decorated it with golden roofs. Likewise, in N.S. 788, King Jagat Prakash Malla established his own image along with his minister Chandrashekhar in the temple while having a grand worshipping. Later on, King Bhupatindra Malla modified it into a triple roofed temple at around N.S. 837-38 (1718 AD) and added the seven golden pinnacles in it. The reconstruction took time after the engineering of the Nyatapola temple. By worse luck, the devasting earthquake of 1934AD collapsed it.  And optimistically reassembled in the same structure. The ruinous earthquake of April 2015 again, made this temple renovated. It also destroyed the tiny way, passing through the betal temple. That ultimately leads toward the interior part of the Bhairavanath temple",
+                        "answer_start": 2070
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Are there any stories or legends about the temple, if yes I would like to hear?",
+                "answers": [
+                    {
+                        "text": "There are legends about the temple. The inner part of the temple consists of the head of Lord Bhairav. There are many stories as to why and how Lord Bhairav’s head was cut off and worshipped here. According to legend, long ago, Kasi Bhairabnath  traveled to Nepal to view either the Bisket Jatra  or the Bal Kaumari Jatra. A tantric priestess in the crowd recognized him for what he was and attempted to immobilize him, but Vishvanath sought to escape by sinking into the ground. As his body descended into the earth, the priestess realized the god was her own husband. To prevent his escape, she ordered his head cut off where it protruded from the ground. Being a god, this was far from a fatal wound, and the priestess enshrined the head in the temple that now stands here. The body, meanwhile, returned to Benares whence it came. Dowman notes that a headless image of Bhairav is still worshipped there even today. Another story about this temple is also interesting, passed orally by our ancestors. According to this, the lord bhairava of Varanasi once visited Bhaktapur to see Bisket jatra. Bisket jatra is one of the biggest jatras of the newar people. During the festival, the lord Bhairava somehow was recognized by a priest and he just cast a decoy spell on him.  As a quick reaction, he started to sink into the terra firma to go back to Varanasi. But the priest didnot let him go. As if, he grabs the head of Bhairava in his hand and decollates him with his sword. That is why people say that the head doesnot match the body of Kasi Vishwanath. It is also believed that the head is still treasured in a box of this temple.",
+                        "answer_start": 3273
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Are there any tales or folklore associated with the temple? If so, I'm interested in hearing them",
+                "answers": [
+                    {
+                        "text": "There are legends about the temple. The inner part of the temple consists of the head of Lord Bhairav. There are many stories as to why and how Lord Bhairav’s head was cut off and worshipped here. According to legend, long ago, Kasi Bhairabnath  traveled to Nepal to view either the Bisket Jatra  or the Bal Kaumari Jatra. A tantric priestess in the crowd recognized him for what he was and attempted to immobilize him, but Vishvanath sought to escape by sinking into the ground. As his body descended into the earth, the priestess realized the god was her own husband. To prevent his escape, she ordered his head cut off where it protruded from the ground. Being a god, this was far from a fatal wound, and the priestess enshrined the head in the temple that now stands here. The body, meanwhile, returned to Benares whence it came. Dowman notes that a headless image of Bhairav is still worshipped there even today. Another story about this temple is also interesting, passed orally by our ancestors. According to this, the lord bhairava of Varanasi once visited Bhaktapur to see Bisket jatra. Bisket jatra is one of the biggest jatras of the newar people. During the festival, the lord Bhairava somehow was recognized by a priest and he just cast a decoy spell on him.  As a quick reaction, he started to sink into the terra firma to go back to Varanasi. But the priest didnot let him go. As if, he grabs the head of Bhairava in his hand and decollates him with his sword. That is why people say that the head doesnot match the body of Kasi Vishwanath. It is also believed that the head is still treasured in a box of this temple.",
+                        "answer_start": 3273
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "I'm curious if there are any legends or narratives linked to the temple. If there are, I'd love to hear about them.",
+                "answers": [
+                    {
+                        "text": "There are legends about the temple. The inner part of the temple consists of the head of Lord Bhairav. There are many stories as to why and how Lord Bhairav’s head was cut off and worshipped here. According to legend, long ago, Kasi Bhairabnath  traveled to Nepal to view either the Bisket Jatra  or the Bal Kaumari Jatra. A tantric priestess in the crowd recognized him for what he was and attempted to immobilize him, but Vishvanath sought to escape by sinking into the ground. As his body descended into the earth, the priestess realized the god was her own husband. To prevent his escape, she ordered his head cut off where it protruded from the ground. Being a god, this was far from a fatal wound, and the priestess enshrined the head in the temple that now stands here. The body, meanwhile, returned to Benares whence it came. Dowman notes that a headless image of Bhairav is still worshipped there even today. Another story about this temple is also interesting, passed orally by our ancestors. According to this, the lord bhairava of Varanasi once visited Bhaktapur to see Bisket jatra. Bisket jatra is one of the biggest jatras of the newar people. During the festival, the lord Bhairava somehow was recognized by a priest and he just cast a decoy spell on him.  As a quick reaction, he started to sink into the terra firma to go back to Varanasi. But the priest didnot let him go. As if, he grabs the head of Bhairava in his hand and decollates him with his sword. That is why people say that the head doesnot match the body of Kasi Vishwanath. It is also believed that the head is still treasured in a box of this temple.",
+                        "answer_start": 3273
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Do stories or myths exist surrounding the temple? If they do, I'd be keen to listen to those accounts",
+                "answers": [
+                    {
+                        "text": "There are legends about the temple. The inner part of the temple consists of the head of Lord Bhairav. There are many stories as to why and how Lord Bhairav’s head was cut off and worshipped here. According to legend, long ago, Kasi Bhairabnath  traveled to Nepal to view either the Bisket Jatra  or the Bal Kaumari Jatra. A tantric priestess in the crowd recognized him for what he was and attempted to immobilize him, but Vishvanath sought to escape by sinking into the ground. As his body descended into the earth, the priestess realized the god was her own husband. To prevent his escape, she ordered his head cut off where it protruded from the ground. Being a god, this was far from a fatal wound, and the priestess enshrined the head in the temple that now stands here. The body, meanwhile, returned to Benares whence it came. Dowman notes that a headless image of Bhairav is still worshipped there even today. Another story about this temple is also interesting, passed orally by our ancestors. According to this, the lord bhairava of Varanasi once visited Bhaktapur to see Bisket jatra. Bisket jatra is one of the biggest jatras of the newar people. During the festival, the lord Bhairava somehow was recognized by a priest and he just cast a decoy spell on him.  As a quick reaction, he started to sink into the terra firma to go back to Varanasi. But the priest didnot let him go. As if, he grabs the head of Bhairava in his hand and decollates him with his sword. That is why people say that the head doesnot match the body of Kasi Vishwanath. It is also believed that the head is still treasured in a box of this temple.",
+                        "answer_start": 3273
+                    }
+                ]
+            },
+            {
+                "id": "dummy_id",
+                "is_impossible": false,
+                "question": "Are there any specific legends or anecdotes connected to the temple's history? If available, I'm eager to hear and learn about them?",
+                "answers": [
+                    {
+                        "text": "There are legends about the temple. The inner part of the temple consists of the head of Lord Bhairav. There are many stories as to why and how Lord Bhairav’s head was cut off and worshipped here. According to legend, long ago, Kasi Bhairabnath  traveled to Nepal to view either the Bisket Jatra  or the Bal Kaumari Jatra. A tantric priestess in the crowd recognized him for what he was and attempted to immobilize him, but Vishvanath sought to escape by sinking into the ground. As his body descended into the earth, the priestess realized the god was her own husband. To prevent his escape, she ordered his head cut off where it protruded from the ground. Being a god, this was far from a fatal wound, and the priestess enshrined the head in the temple that now stands here. The body, meanwhile, returned to Benares whence it came. Dowman notes that a headless image of Bhairav is still worshipped there even today. Another story about this temple is also interesting, passed orally by our ancestors. According to this, the lord bhairava of Varanasi once visited Bhaktapur to see Bisket jatra. Bisket jatra is one of the biggest jatras of the newar people. During the festival, the lord Bhairava somehow was recognized by a priest and he just cast a decoy spell on him.  As a quick reaction, he started to sink into the terra firma to go back to Varanasi. But the priest didnot let him go. As if, he grabs the head of Bhairava in his hand and decollates him with his sword. That is why people say that the head doesnot match the body of Kasi Vishwanath. It is also believed that the head is still treasured in a box of this temple.",
+                        "answer_start": 3273
+                    }
+                ]
+            }
+        ]
+    }
+]

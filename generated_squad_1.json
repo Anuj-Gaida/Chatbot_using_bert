@@ -1,0 +1,656 @@
+[
+  {
+    "context": "Bhairavanath temple is one of the temples that lies at the central of Bhaktapur, Taumadhi  Square and Bhairavanath Temple is built in the pagoda style and It is three-storey. It is one of the temple devoted to Lord Bhairava is one of the rectangular based temples of Bhaktapur. Curiously, there is no entrance on the temple's lengthy west facade that faces the square. Instead, priests access the interior from the south. The west facade is largely symmetrical and features a ground-level shrine with Bhairav depicted in miniature on a small metal throne. Michael Hutt notes that this small statue is frequently stolen and replaced. To either side of the deity are hammered copper plates depicting Bhairav's eyes, two pairs of hands, and two dogs and his faithful companions. At present, perhaps to discourage theft, the ground-level shrine is blocked from casual access by a makeshift wooden barricade.",
+    "qas": [
+      {
+        "id": "1",
+        "is_impossible": false,
+        "question": "What is the location of Bhairavanath Temple within Bhaktapur?",
+        "answers": [
+          {
+            "text": "Bhairavanath temple is one of the temples that lies at the central of Bhaktapur, Taumadhi Square",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "is_impossible": false,
+        "question": "Could you describe where the Bhairavanath Temple is in Bhaktapur?",
+        "answers": [
+          {
+            "text": "Bhairavanath temple is one of the temples that lies at the central of Bhaktapur, Taumadhi Square",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "is_impossible": false,
+        "question": "I'm trying to find out the specific location of the Bhairavanath Temple in Bhaktapur.",
+        "answers": [
+          {
+            "text": "Bhairavanath temple is one of the temples that lies at the central of Bhaktapur, Taumadhi Square",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "is_impossible": false,
+        "question": "Can you pinpoint where exactly the Bhairavanath Temple is situated within Bhaktapur?",
+        "answers": [
+          {
+            "text": "Bhairavanath temple is one of the temples that lies at the central of Bhaktapur, Taumadhi Square",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "is_impossible": false,
+        "question": "Hey, do you happen to know the exact spot of the Bhairavanath Temple in Bhaktapur?",
+        "answers": [
+          {
+            "text": "Bhairavanath temple is one of the temples that lies at the central of Bhaktapur, Taumadhi Square",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "is_impossible": false,
+        "question": "What architectural style characterizes the construction of Bhairavanath Temple?",
+        "answers": [
+          {
+            "text": "Bhairavanath Temple is built in the pagoda style and It is three-storey",
+            "answer_start": 102
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "is_impossible": false,
+        "question": "How would you define the architectural style seen in the construction of Bhairavanath Temple?",
+        "answers": [
+          {
+            "text": "Bhairavanath Temple is built in the pagoda style and It is three-storey",
+            "answer_start": 102
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "is_impossible": false,
+        "question": "What specific architectural features define the construction style of Bhairavanath Temple?",
+        "answers": [
+          {
+            "text": "Bhairavanath Temple is built in the pagoda style and It is three-storey",
+            "answer_start": 102
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "is_impossible": false,
+        "question": "Can you describe the architectural design that's typical of Bhairavanath Temple's construction?",
+        "answers": [
+          {
+            "text": "Bhairavanath Temple is built in the pagoda style and It is three-storey",
+            "answer_start": 102
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "is_impossible": false,
+        "question": "In what architectural manner was the Bhairavanath Temple built?",
+        "answers": [
+          {
+            "text": "Bhairavanath Temple is built in the pagoda style and It is three-storey",
+            "answer_start": 102
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "is_impossible": false,
+        "question": "How many storeys does Bhairavanath Temple comprise?",
+        "answers": [
+          {
+            "text": "It is three-storey.",
+            "answer_start": 155
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "is_impossible": false,
+        "question": "What's the count of floors within the Bhairavanath Temple?",
+        "answers": [
+          {
+            "text": "It is three-storey.",
+            "answer_start": 155
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "is_impossible": false,
+        "question": "Could you specify the number of levels present in the Bhairavanath Temple?",
+        "answers": [
+          {
+            "text": "It is three-storey.",
+            "answer_start": 155
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "is_impossible": false,
+        "question": "How many stories or levels make up the Bhairavanath Temple?",
+        "answers": [
+          {
+            "text": "It is three-storey.",
+            "answer_start": 155
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "is_impossible": false,
+        "question": "Can you tell me the total number of storeys that form the Bhairavanath Temple?",
+        "answers": [
+          {
+            "text": "It is three-storey.",
+            "answer_start": 155
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "is_impossible": false,
+        "question": "To which god or deity is Bhairavanath Temple dedicated?",
+        "answers": [
+          {
+            "text": "It is one of the temple devoted to Lord Bhairava",
+            "answer_start": 176
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "is_impossible": false,
+        "question": "Whom does Bhairavanath Temple specifically venerate or worship?",
+        "answers": [
+          {
+            "text": "It is one of the temple devoted to Lord Bhairava",
+            "answer_start": 176
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "is_impossible": false,
+        "question": "Which divine figure is the focus of devotion at Bhairavanath Temple?",
+        "answers": [
+          {
+            "text": "It is one of the temple devoted to Lord Bhairava",
+            "answer_start": 176
+          }
+        ]
+      },
+      {
+        "id": "19",
+        "is_impossible": false,
+        "question": "Can you tell me the deity that Bhairavanath Temple is dedicated to?",
+        "answers": [
+          {
+            "text": "It is one of the temple devoted to Lord Bhairava",
+            "answer_start": 176
+          }
+        ]
+      },
+      {
+        "id": "20",
+        "is_impossible": false,
+        "question": "What distinguishes the temple's west facade facing the square?",
+        "answers": [
+          {
+            "text": "there is no entrance on the temple's lengthy west facade that faces the square",
+            "answer_start": 292
+          }
+        ]
+      },
+      {
+        "id": "21",
+        "is_impossible": false,
+        "question": "What notable characteristics mark the west-facing facade of the temple towards the square?",
+        "answers": [
+          {
+            "text": "there is no entrance on the temple's lengthy west facade that faces the square",
+            "answer_start": 292
+          }
+        ]
+      },
+      {
+        "id": "22",
+        "is_impossible": false,
+        "question": "Could you describe the unique attributes of the temple's west side that faces the square?",
+        "answers": [
+          {
+            "text": "there is no entrance on the temple's lengthy west facade that faces the square",
+            "answer_start": 292
+          }
+        ]
+      },
+      {
+        "id": "23",
+        "is_impossible": false,
+        "question": "What sets apart the west facade of the temple that's directed towards the square?",
+        "answers": [
+          {
+            "text": "there is no entrance on the temple's lengthy west facade that faces the square",
+            "answer_start": 292
+          }
+        ]
+      },
+      {
+        "id": "24",
+        "is_impossible": false,
+        "question": "Can you elaborate on the specific traits or distinguishing elements of the temple's west front that overlooks the square?",
+        "answers": [
+          {
+            "text": "there is no entrance on the temple's lengthy west facade that faces the square",
+            "answer_start": 292
+          }
+        ]
+      },
+      {
+        "id": "25",
+        "is_impossible": false,
+        "question": "From which direction do priests access the interior of the temple?",
+        "answers": [
+          {
+            "text": "priests access the interior from the south",
+            "answer_start": 384
+          }
+        ]
+      },
+      {
+        "id": "26",
+        "is_impossible": false,
+        "question": "How do priests typically access the interior of the temple in terms of direction?",
+        "answers": [
+          {
+            "text": "priests access the interior from the south",
+            "answer_start": 384
+          }
+        ]
+      },
+      {
+        "id": "27",
+        "is_impossible": false,
+        "question": "In which direction do the priests usually enter the temple to access its interior?",
+        "answers": [
+          {
+            "text": "priests access the interior from the south",
+            "answer_start": 384
+          }
+        ]
+      },
+      {
+        "id": "28",
+        "is_impossible": false,
+        "question": "From what direction do the priests traditionally approach and enter the temple?",
+        "answers": [
+          {
+            "text": "priests access the interior from the south",
+            "answer_start": 384
+          }
+        ]
+      },
+      {
+        "id": "29",
+        "is_impossible": false,
+        "question": "Can you specify the customary direction from which priests enter the temple to access its interior?",
+        "answers": [
+          {
+            "text": "priests access the interior from the south",
+            "answer_start": 384
+          }
+        ]
+      },
+      {
+        "id": "30",
+        "is_impossible": false,
+        "question": "What specific items or objects are present within the ground-level shrine inside the temple?",
+        "answers": [
+          {
+            "text": "a ground-level shrine with Bhairav depicted in miniature on a small metal throne",
+            "answer_start": 481
+          }
+        ]
+      },
+      {
+        "id": "31",
+        "is_impossible": false,
+        "question": ". Could you describe what is housed within the shrine situated at ground level inside the temple?",
+        "answers": [
+          {
+            "text": "a ground-level shrine with Bhairav depicted in miniature on a small metal throne",
+            "answer_start": 481
+          }
+        ]
+      },
+      {
+        "id": "32",
+        "is_impossible": false,
+        "question": "What can be seen or discovered inside the ground-level shrine within the temple?",
+        "answers": [
+          {
+            "text": "a ground-level shrine with Bhairav depicted in miniature on a small metal throne",
+            "answer_start": 481
+          }
+        ]
+      },
+      {
+        "id": "33",
+        "is_impossible": false,
+        "question": ". Can you detail what's typically placed within the shrine located at the temple's ground level?",
+        "answers": [
+          {
+            "text": "a ground-level shrine with Bhairav depicted in miniature on a small metal throne",
+            "answer_start": 481
+          }
+        ]
+      },
+      {
+        "id": "34",
+        "is_impossible": false,
+        "question": "What is depicted on a small metal throne within the temple?",
+        "answers": [
+          {
+            "text": "Bhairav depicted in miniature on a small metal throne",
+            "answer_start": 508
+          }
+        ]
+      },
+      {
+        "id": "35",
+        "is_impossible": false,
+        "question": "What imagery or representation is featured on the small metal throne inside the temple?",
+        "answers": [
+          {
+            "text": "Bhairav depicted in miniature on a small metal throne",
+            "answer_start": 508
+          }
+        ]
+      },
+      {
+        "id": "36",
+        "is_impossible": false,
+        "question": "Could you describe what is depicted on the miniature metal throne situated within the temple?",
+        "answers": [
+          {
+            "text": "Bhairav depicted in miniature on a small metal throne",
+            "answer_start": 508
+          }
+        ]
+      },
+      {
+        "id": "37",
+        "is_impossible": false,
+        "question": "What specific design or symbol can be seen on the small metal throne inside the temple?",
+        "answers": [
+          {
+            "text": "Bhairav depicted in miniature on a small metal throne",
+            "answer_start": 508
+          }
+        ]
+      },
+      {
+        "id": "38",
+        "is_impossible": false,
+        "question": "Can you elaborate on the visual depiction found on the small metal throne within the temple?",
+        "answers": [
+          {
+            "text": "Bhairav depicted in miniature on a small metal throne",
+            "answer_start": 508
+          }
+        ]
+      },
+      {
+        "id": "39",
+        "is_impossible": false,
+        "question": "What is the recurring issue related to a small statue within the temple?",
+        "answers": [
+          {
+            "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+            "answer_start": 564
+          }
+        ]
+      },
+      {
+        "id": "40",
+        "is_impossible": false,
+        "question": "What ongoing problem is associated with the small statue inside the temple?",
+        "answers": [
+          {
+            "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+            "answer_start": 564
+          }
+        ]
+      },
+      {
+        "id": "41",
+        "is_impossible": false,
+        "question": "Could you describe the persistent issue linked to the small statue within the temple?",
+        "answers": [
+          {
+            "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+            "answer_start": 564
+          }
+        ]
+      },
+      {
+        "id": "42",
+        "is_impossible": false,
+        "question": "What is the continual concern regarding the small statue located within the temple?",
+        "answers": [
+          {
+            "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+            "answer_start": 564
+          }
+        ]
+      },
+      {
+        "id": "43",
+        "is_impossible": false,
+        "question": "Can you explain the recurring challenge connected to the small statue inside the temple?",
+        "answers": [
+          {
+            "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+            "answer_start": 564
+          }
+        ]
+      },
+      {
+        "id": "44",
+        "is_impossible": false,
+        "question": "",
+        "answers": [
+          {
+            "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+            "answer_start": 564
+          }
+        ]
+      },
+      {
+        "id": "45",
+        "is_impossible": false,
+        "question": "Could you describe what symbols or elements are showcased on the hammered copper plates next to the deity?",
+        "answers": [
+          {
+            "text": "hammered copper plates depicting Bhairav's eyes, two pairs of hands, and two dogs and his faithful companions",
+            "answer_start": 674
+          }
+        ]
+      },
+      {
+        "id": "46",
+        "is_impossible": false,
+        "question": "What specific imagery or elements are portrayed on the hammered copper plates positioned beside the deity?",
+        "answers": [
+          {
+            "text": "hammered copper plates depicting Bhairav's eyes, two pairs of hands, and two dogs and his faithful companions",
+            "answer_start": 674
+          }
+        ]
+      },
+      {
+        "id": "47",
+        "is_impossible": false,
+        "question": "Can you detail the symbols or representations depicted on the hammered copper plates adjacent to the deity?",
+        "answers": [
+          {
+            "text": "hammered copper plates depicting Bhairav's eyes, two pairs of hands, and two dogs and his faithful companions",
+            "answer_start": 674
+          }
+        ]
+      },
+      {
+        "id": "48",
+        "is_impossible": false,
+        "question": "What is depicted or illustrated on the hammered copper plates placed beside the deity?",
+        "answers": [
+          {
+            "text": "hammered copper plates depicting Bhairav's eyes, two pairs of hands, and two dogs and his faithful companions",
+            "answer_start": 674
+          }
+        ]
+      },
+      {
+        "id": "49",
+        "is_impossible": false,
+        "question": "What purpose does the makeshift wooden barricade serve within the temple's interior?",
+        "answers": [
+          {
+            "text": "At present, perhaps to discourage theft, the ground-level shrine is blocked from casual access by a makeshift wooden barricade",
+            "answer_start": 789
+          }
+        ]
+      },
+      {
+        "id": "50",
+        "is_impossible": false,
+        "question": "What role or purpose does the impromptu wooden barricade serve inside the temple?",
+        "answers": [
+          {
+            "text": "At present, perhaps to discourage theft, the ground-level shrine is blocked from casual access by a makeshift wooden barricade",
+            "answer_start": 789
+          }
+        ]
+      },
+      {
+        "id": "51",
+        "is_impossible": false,
+        "question": "Could you explain the reason behind the makeshift wooden barricade within the temple's interior?",
+        "answers": [
+          {
+            "text": "At present, perhaps to discourage theft, the ground-level shrine is blocked from casual access by a makeshift wooden barricade",
+            "answer_start": 789
+          }
+        ]
+      },
+      {
+        "id": "52",
+        "is_impossible": false,
+        "question": "What function is fulfilled by the temporary wooden barricade found inside the temple?",
+        "answers": [
+          {
+            "text": "At present, perhaps to discourage theft, the ground-level shrine is blocked from casual access by a makeshift wooden barricade",
+            "answer_start": 789
+          }
+        ]
+      },
+      {
+        "id": "53",
+        "is_impossible": false,
+        "question": "Can you describe the purpose or use of the makeshift wooden barricade within the temple's interior?",
+        "answers": [
+          {
+            "text": "At present, perhaps to discourage theft, the ground-level shrine is blocked from casual access by a makeshift wooden barricade",
+            "answer_start": 789
+          }
+        ]
+      },
+      {
+        "id": "54",
+        "is_impossible": false,
+        "question": "What role or purpose does the impromptu wooden barricade serve inside the temple?",
+        "answers": [
+          {
+            "text": "At present, perhaps to discourage theft, the ground-level shrine is blocked from casual access by a makeshift wooden barricade",
+            "answer_start": 789
+          }
+        ]
+      },
+      {
+        "id": "55",
+        "is_impossible": false,
+        "question": "Who noted the frequent theft and replacement of the small statue within the temple?",
+        "answers": [
+          {
+            "text": " Michael Hutt notes that this small statue is frequently stolen and replaced",
+            "answer_start": 564
+          }
+        ]
+      },
+      {
+        "id": "56",
+        "is_impossible": false,
+        "question": "Who documented or observed the regular instances of theft and replacement involving the small statue within the temple?",
+        "answers": [
+          {
+            "text": " Michael Hutt notes that this small statue is frequently stolen and replaced",
+            "answer_start": 564
+          }
+        ]
+      },
+      {
+        "id": "57",
+        "is_impossible": false,
+        "question": "Could you identify the person who noticed the recurring theft and replacement of the small statue inside the temple?",
+        "answers": [
+          {
+            "text": " Michael Hutt notes that this small statue is frequently stolen and replaced",
+            "answer_start": 564
+          }
+        ]
+      },
+      {
+        "id": "58",
+        "is_impossible": false,
+        "question": "Who specifically reported or witnessed the frequent stealing and replacement of the small statue within the temple?",
+        "answers": [
+          {
+            "text": " Michael Hutt notes that this small statue is frequently stolen and replaced",
+            "answer_start": 564
+          }
+        ]
+      },
+      {
+        "id": "59",
+        "is_impossible": false,
+        "question": "Can you mention the individual who observed the repetitive theft and replacement of the small statue within the temple?",
+        "answers": [
+          {
+            "text": "The temple was first inaugurated by King Ananda Deva in the 13th century. However, that area, before the establishment of the temple was already popular for the Shaivism pilgrims. It was well known as Lalitmaheshwor. Regarding which there are inscriptions found in the temple. But, it was definitely not triple-roofed, then",
+            "answer_start": 564
+          }
+        ]
+      }
+    ]
+  }
+]
