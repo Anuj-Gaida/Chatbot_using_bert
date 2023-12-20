@@ -1,0 +1,727 @@
+[
+    {
+        "context": "Bhairavanath temple is one of the temples that lies at the central of Bhaktapur, Taumadhi  Square and Bhairavanath Temple is built in the pagoda style and It is three-storey. It is one of the temple devoted to Lord Bhairava is one of the rectangular based temples of Bhaktapur. Curiously, there is no entrance on the temple's lengthy west facade that faces the square. Instead, priests access the interior from the south. The west facade is largely symmetrical and features a ground-level shrine with Bhairav depicted in miniature on a small metal throne. Michael Hutt notes that this small statue is frequently stolen and replaced. To either side of the deity are hammered copper plates depicting Bhairav's eyes, two pairs of hands, and two dogs and his faithful companions. At present, perhaps to discourage theft, the ground-level shrine is blocked from casual access by a makeshift wooden barricade. The temple is dedicated to lord Bhairav, which is supposed to be the most ferocious form of Lord Shiva. The Bhairavanath established in this temple is a formidable incarnation of lord shiva, who also prefers to name Kasi Vishwanath and Aakash bhairava. He is somehow famous for his obstreperous and stubborn character. Bhairav has a particular fascination with machines and is often thought to inhabit wheels, with different versions of the god inhabiting different wheels on the same chariot. At the Bhairavanath temple, a chariot used in the annual Bisket-Jatra festival is stored, dismantled, against the temple's north wall. Bhairavanath's association with the chariot used in the festival highlights his connection to the annual Bisket-Jatra festival. The statue of Lord Bhairav is about 12 feet long and is one of the largest statues in Kathmandu Valley. Thousands of people visit Bhairavanath temple during Bhairav Ashtami or Bhairav Jayanthi as it is celebrated religiously.  Even though the temple was slightly damaged during the earthquake in November 2015, it still has retrained most of structure. The Renovative history of Bhairavanath Temple says that The temple was first inaugurated by King Ananda Deva in the 13th century. However, that area, before the establishment of the temple was already popular for the Shaivism pilgrims. It was well known as Lalitmaheshwor. Regarding which there are inscriptions found in the temple. But, it was definitely not triple-roofed, then. During the reign of King Vishwa Malla, the temple was gracefully restored in a one-storeyed temple.After, King Jagatjyoti Malla decorated it with golden roofs. Likewise, in N.S. 788, King Jagat Prakash Malla established his own image along with his minister Chandrashekhar in the temple while having a grand worshipping. Later on, King Bhupatindra Malla modified it into a triple roofed temple at around N.S. 837-38 (1718 AD) and added the seven golden pinnacles in it. The reconstruction took time after the engineering of the Nyatapola temple. By worse luck, the devasting earthquake of 1934AD collapsed it.  And optimistically reassembled in the same structure. The ruinous earthquake of April 2015 again, made this temple renovated. It also destroyed the tiny way, passing through the betal temple. That ultimately leads toward the interior part of the Bhairavanath temple. There are legends about the temple. The inner part of the temple consists of the head of Lord Bhairav. There are many stories as to why and how Lord Bhairav’s head was cut off and worshipped here. According to legend, long ago, Kasi Bhairabnath  traveled to Nepal to view either the Bisket Jatra  or the Bal Kaumari Jatra. A tantric priestess in the crowd recognized him for what he was and attempted to immobilize him, but Vishvanath sought to escape by sinking into the ground. As his body descended into the earth, the priestess realized the god was her own husband. To prevent his escape, she ordered his head cut off where it protruded from the ground. Being a god, this was far from a fatal wound, and the priestess enshrined the head in the temple that now stands here. The body, meanwhile, returned to Benares whence it came. Dowman notes that a headless image of Bhairav is still worshipped there even today. Another story about this temple is also interesting, passed orally by our ancestors. According to this, the lord bhairava of Varanasi once visited Bhaktapur to see Bisket jatra. Bisket jatra is one of the biggest jatras of the newar people. During the festival, the lord Bhairava somehow was recognized by a priest and he just cast a decoy spell on him.  As a quick reaction, he started to sink into the terra firma to go back to Varanasi. But the priest didnot let him go. As if, he grabs the head of Bhairava in his hand and decollates him with his sword. That is why people say that the head doesnot match the body of Kasi Vishwanath. It is also believed that the head is still treasured in a box of this temple.",
+        "qas": [
+            {
+                "id": "1",
+                "is_impossible": false,
+                "question": "Could you describe where the Bhairavanath Temple is in Bhaktapur?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath temple is one of the temples that lies at the central of Bhaktapur, Taumadhi  Square.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "is_impossible": false,
+                "question": "I'm trying to find out the specific location of the Bhairavanath Temple in Bhaktapur.",
+                "answers": [
+                    {
+                        "text": "Bhairavanath temple is one of the temples that lies at the central of Bhaktapur, Taumadhi  Square.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "is_impossible": false,
+                "question": "Can you pinpoint where exactly the Bhairavanath Temple is situated within Bhaktapur?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath temple is one of the temples that lies at the central of Bhaktapur, Taumadhi  Square.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "is_impossible": false,
+                "question": "Can you describe the architectural design that's typical of Bhairavanath Temple's construction?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath Temple is built in the pagoda style and It is three-storey",
+                        "answer_start": 102
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "is_impossible": false,
+                "question": "Could you specify the number of levels present in the Bhairavanath Temple?",
+                "answers": [
+                    {
+                        "text": "It is three-storey.",
+                        "answer_start": 155
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "is_impossible": false,
+                "question": "Whom does Bhairavanath Temple specifically venerate or worship?",
+                "answers": [
+                    {
+                        "text": "It is one of the temple devoted to Lord Bhairava",
+                        "answer_start": 175
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "is_impossible": false,
+                "question": "Which divine figure is the focus of devotion at Bhairavanath Temple?",
+                "answers": [
+                    {
+                        "text": "It is one of the temple devoted to Lord Bhairava",
+                        "answer_start": 175
+                    }
+                ]
+            },
+            {
+                "id": "8",
+                "is_impossible": false,
+                "question": "What can be seen or discovered inside the ground-level shrine within the temple?",
+                "answers": [
+                    {
+                        "text": "a ground-level shrine with Bhairav depicted in miniature on a small metal throne",
+                        "answer_start": 474
+                    }
+                ]
+            },
+            {
+                "id": "9",
+                "is_impossible": false,
+                "question": "Could you describe what is depicted on the miniature metal throne situated within the temple?",
+                "answers": [
+                    {
+                        "text": "Bhairav depicted in miniature on a small metal throne",
+                        "answer_start": 501
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "is_impossible": false,
+                "question": "What specific design or symbol can be seen on the small metal throne inside the temple?",
+                "answers": [
+                    {
+                        "text": "Bhairav depicted in miniature on a small metal throne",
+                        "answer_start": 501
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "is_impossible": false,
+                "question": "What elements are portrayed on hammered copper plates beside the deity?",
+                "answers": [
+                    {
+                        "text": "hammered copper plates depicting Bhairav's eyes, two pairs of hands, and two dogs and his faithful companions",
+                        "answer_start": 665
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "is_impossible": false,
+                "question": "Could you identify the person who noticed the recurring theft and replacement of the small statue inside the temple?",
+                "answers": [
+                    {
+                        "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+                        "answer_start": 556
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "is_impossible": false,
+                "question": "Who specifically reported or witnessed the frequent stealing and replacement of the small statue within the temple?",
+                "answers": [
+                    {
+                        "text": "Michael Hutt notes that this small statue is frequently stolen and replaced",
+                        "answer_start": 556
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "is_impossible": false,
+                "question": "Who is the specific deity that this temple is set aside for in terms of worship and dedication?",
+                "answers": [
+                    {
+                        "text": "The temple is dedicated to lord Bhairav, which is supposed to be the most ferocious form of Lord Shiva",
+                        "answer_start": 904
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "is_impossible": false,
+                "question": "What are some other names or labels associated with the Bhairavanath deity honored in this particular temple?",
+                "answers": [
+                    {
+                        "text": "prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1104
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "is_impossible": false,
+                "question": "How is Bhairav's character described in terms of temperament?",
+                "answers": [
+                    {
+                        "text": "He is somehow famous for his obstreperous and stubborn character.",
+                        "answer_start": 1157
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "is_impossible": false,
+                "question": "What particular focus or inclinations does Bhairav possess, and what affiliations are commonly tied to him?",
+                "answers": [
+                    {
+                        "text": "Bhairav has a particular fascination with machines and is often thought to inhabit wheels",
+                        "answer_start": 1223
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "is_impossible": false,
+                "question": "In what form is Bhairav believed to inhabit wheels, and how are these versions of the god perceived?",
+                "answers": [
+                    {
+                        "text": "often thought to inhabit wheels, with different versions of the god inhabiting different wheels on the same chariot",
+                        "answer_start": 1281
+                    }
+                ]
+            },
+            {
+                "id": "19",
+                "is_impossible": false,
+                "question": "What significant event uses a chariot stored against the temple's north wall during the annual Bisket-Jatra festival?",
+                "answers": [
+                    {
+                        "text": "a chariot used in the annual Bisket-Jatra festival is stored, dismantled, against the temple's north wall",
+                        "answer_start": 1426
+                    }
+                ]
+            },
+            {
+                "id": "20",
+                "is_impossible": false,
+                "question": "What important ritual occurs with a chariot positioned against the temple's north wall during the yearly Bisket-Jatra festival?",
+                "answers": [
+                    {
+                        "text": "a chariot used in the annual Bisket-Jatra festival is stored, dismantled, against the temple's north wall",
+                        "answer_start": 1426
+                    }
+                ]
+            },
+            {
+                "id": "21",
+                "is_impossible": false,
+                "question": "What pivotal event is connected to a chariot stored against the north wall of the temple during the yearly Bisket-Jatra festival?",
+                "answers": [
+                    {
+                        "text": "a chariot used in the annual Bisket-Jatra festival is stored, dismantled, against the temple's north wall",
+                        "answer_start": 1426
+                    }
+                ]
+            },
+            {
+                "id": "22",
+                "is_impossible": false,
+                "question": "Where is the chariot used in the festival stored when not in use?",
+                "answers": [
+                    {
+                        "text": "At the Bhairavanath temple, a chariot used in the annual Bisket-Jatra festival is stored, dismantled, against the temple's north wall",
+                        "answer_start": 1398
+                    }
+                ]
+            },
+            {
+                "id": "23",
+                "is_impossible": false,
+                "question": "What deity does Bhairavanath represent in relation to Lord Shiva's forms?",
+                "answers": [
+                    {
+                        "text": "The Bhairavanath established in this temple is a formidable incarnation of lord shiva, who also prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1008
+                    }
+                ]
+            },
+            {
+                "id": "24",
+                "is_impossible": false,
+                "question": "What aspect of Bhairav's nature is highlighted in connection to his interest or inclination towards machinery?",
+                "answers": [
+                    {
+                        "text": "Bhairav has a particular fascination with machines",
+                        "answer_start": 1223
+                    }
+                ]
+            },
+            {
+                "id": "25",
+                "is_impossible": false,
+                "question": "Regarding Bhairav's temperament, which characteristic stands out concerning his keenness or attraction to machines?",
+                "answers": [
+                    {
+                        "text": "Bhairav has a particular fascination with machines",
+                        "answer_start": 1223
+                    }
+                ]
+            },
+            {
+                "id": "26",
+                "is_impossible": false,
+                "question": "In Bhairavanath's character, which feature is accentuated by his affiliation with the festival's chariot?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath's association with the chariot used in the festival highlights his connection to the annual Bisket-Jatra festival",
+                        "answer_start": 1533
+                    }
+                ]
+            },
+            {
+                "id": "27",
+                "is_impossible": false,
+                "question": "Concerning Bhairavanath's nature, which specific aspect is underscored by his association with the festival's chariot?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath's association with the chariot used in the festival highlights his connection to the annual Bisket-Jatra festival",
+                        "answer_start": 1533
+                    }
+                ]
+            },
+            {
+                "id": "28",
+                "is_impossible": false,
+                "question": "How is Bhairavanath described in terms of his connection to Lord Shiva's various forms and manifestations?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath established in this temple is a formidable incarnation of lord shiva, who also prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1012
+                    }
+                ]
+            },
+            {
+                "id": "29",
+                "is_impossible": false,
+                "question": "What depictions or portrayals describe Bhairavanath's link to the diverse forms and manifestations of Lord Shiva?",
+                "answers": [
+                    {
+                        "text": "Bhairavanath established in this temple is a formidable incarnation of lord shiva, who also prefers to name Kasi Vishwanath and Aakash bhairava",
+                        "answer_start": 1012
+                    }
+                ]
+            },
+            {
+                "id": "30",
+                "is_impossible": false,
+                "question": "Did the temple undergo damage as a result of the earthquake that occurred in November 2015?",
+                "answers": [
+                    {
+                        "text": "Even though the temple was slightly damaged during the earthquake in November 2015, it still has retrained most of structure",
+                        "answer_start": 1888
+                    }
+                ]
+            },
+            {
+                "id": "31",
+                "is_impossible": false,
+                "question": "Was this temple affected by the earthquake that took place in November 2015?",
+                "answers": [
+                    {
+                        "text": "Even though the temple was slightly damaged during the earthquake in November 2015, it still has retrained most of structure",
+                        "answer_start": 1888
+                    }
+                ]
+            },
+            {
+                "id": "32",
+                "is_impossible": false,
+                "question": "I'd love to learn additional information about the temple's history. Could you expand on that?",
+                "answers": [
+                    {
+                        "text": "The temple was first inaugurated by King Ananda Deva in the 13th century. However, that area, before the establishment of the temple was already popular for the Shaivism pilgrims. It was well known as Lalitmaheshwor. Regarding which there are inscriptions found in the temple. But, it was definitely not triple-roofed, then. During the reign of King Vishwa Malla, the temple was gracefully restored in a one-storeyed temple.After, King Jagatjyoti Malla decorated it with golden roofs. Likewise, in N.S. 788, King Jagat Prakash Malla established his own image along with his minister Chandrashekhar in the temple while having a grand worshipping. Later on, King Bhupatindra Malla modified it into a triple roofed temple at around N.S. 837-38 (1718 AD) and added the seven golden pinnacles in it. The reconstruction took time after the engineering of the Nyatapola temple. By worse luck, the devasting earthquake of 1934AD collapsed it.  And optimistically reassembled in the same structure. The ruinous earthquake of April 2015 again, made this temple renovated. It also destroyed the tiny way, passing through the betal temple. That ultimately leads toward the interior part of the Bhairavanath temple",
+                        "answer_start": 2070
+                    }
+                ]
+            },
+            {
+                "id": "33",
+                "is_impossible": false,
+                "question": "Can you offer more insights into the temple's history, providing a deeper understanding of its past events and evolution?",
+                "answers": [
+                    {
+                        "text": "The temple was first inaugurated by King Ananda Deva in the 13th century. However, that area, before the establishment of the temple was already popular for the Shaivism pilgrims. It was well known as Lalitmaheshwor. Regarding which there are inscriptions found in the temple. But, it was definitely not triple-roofed, then. During the reign of King Vishwa Malla, the temple was gracefully restored in a one-storeyed temple.After, King Jagatjyoti Malla decorated it with golden roofs. Likewise, in N.S. 788, King Jagat Prakash Malla established his own image along with his minister Chandrashekhar in the temple while having a grand worshipping. Later on, King Bhupatindra Malla modified it into a triple roofed temple at around N.S. 837-38 (1718 AD) and added the seven golden pinnacles in it. The reconstruction took time after the engineering of the Nyatapola temple. By worse luck, the devasting earthquake of 1934AD collapsed it.  And optimistically reassembled in the same structure. The ruinous earthquake of April 2015 again, made this temple renovated. It also destroyed the tiny way, passing through the betal temple. That ultimately leads toward the interior part of the Bhairavanath temple",
+                        "answer_start": 2070
+                    }
+                ]
+            },
+            {
+                "id": "34",
+                "is_impossible": false,
+                "question": "Are there any stories or legends about the temple, if yes I would like to hear?",
+                "answers": [
+                    {
+                        "text": "There are legends about the temple. The inner part of the temple consists of the head of Lord Bhairav. There are many stories as to why and how Lord Bhairav\u2019s head was cut off and worshipped here. According to legend, long ago, Kasi Bhairabnath  traveled to Nepal to view either the Bisket Jatra  or the Bal Kaumari Jatra. A tantric priestess in the crowd recognized him for what he was and attempted to immobilize him, but Vishvanath sought to escape by sinking into the ground. As his body descended into the earth, the priestess realized the god was her own husband. To prevent his escape, she ordered his head cut off where it protruded from the ground. Being a god, this was far from a fatal wound, and the priestess enshrined the head in the temple that now stands here. The body, meanwhile, returned to Benares whence it came. Dowman notes that a headless image of Bhairav is still worshipped there even today. Another story about this temple is also interesting, passed orally by our ancestors. According to this, the lord bhairava of Varanasi once visited Bhaktapur to see Bisket jatra. Bisket jatra is one of the biggest jatras of the newar people. During the festival, the lord Bhairava somehow was recognized by a priest and he just cast a decoy spell on him.  As a quick reaction, he started to sink into the terra firma to go back to Varanasi. But the priest didnot let him go. As if, he grabs the head of Bhairava in his hand and decollates him with his sword. That is why people say that the head doesnot match the body of Kasi Vishwanath. It is also believed that the head is still treasured in a box of this temple.",
+                        "answer_start": 3273
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Nyatapola was built back in 1701 by King Bhupatindra Malla with a pretty specific purpose: to rein in the powerful deity Bhairavnath by invoking the tantric goddess Siddhilaxmi. The dedication to precision in its construction is remarkable, from the five Ganesha and tiers to the 108 struts and 360 battens used.Have you heard about the interesting reflection thing? You can actually see the temple's reflection in the Khancha pukhu pond nearby. Pond is around Golmadi area.  The temple stands at a height of 32.19 meters.Yes, Nyatapola Temple is indeed a part of the UNESCO World Heritage site enlisted as Bhaktapur Durbar Square where Nyatapola Temple stands.Nyatapola Temple is a major tourist attraction in Bhaktapur, drawing visitors from around the world due to its architectural beauty and cultural significance. Yes, the temple's architecture embodies principles of Hindu cosmology, with each tier symbolizing different elements and aspects of life. Visitors are generally expected to remove their shoes before entering the temple vicinity and should respect the sanctity of the site.The temple follows a pagoda-style architecture, characterized by its multi-tiered roof and intricate wooden carvings, showcasing exceptional Newari craftsmanship Various Hindu festivals are observed at the temple premises, including special ceremonies during Dashain and other significant religious occasions. No you are not permitted to take pictures inside but it is allowed in the outer areas of the temple. Yes, photography is usually allowed in the outer areas of the temple, but it's best to ask for permission before taking pictures of specific areas or people. Yes, there are usually guides available nearby who can provide detailed information about the temple's history and significance. Visitors are usually expected to remove their shoes before entering the temple premises and to respect the sanctity of the site. Each tier symbolizes a different element and also serves as a representation of the stages of life. Yes, various rituals and festivals are celebrated at Nyatapola Temple throughout the year, including special ceremonies during Dashain and other Hindu festivals. Typically, tourists are not allowed to enter the temple itself, but they can admire its beautiful architecture and explore the area around it. The temple's architecture represents the five basic elements: earth, water, fire, air, and ether, and is dedicated to the goddess Siddhi Lakshmi. The construction work of this temple was completed within eight month. Goddess Shiddhi Laxmi, the powerful tantric goddess, is inside Temple.  The unique features of temple is 5 Ganesha, 5 tiers, 5 plinths, 33 steps, 108 struts, and 360 battens used in the temple. The major propose was to control the aggressive, god Bhairavnath by establishing the tantric goddess Siddhilaxmi according to the inscription. The Nyatapola temple was constructed in 1701 AD by King Bhupatindra Malla. Placing the flag on top of the pinnacle during the establishment day celebration is a symbolic act carried out by the Awals of Tuchimala tole, signifying a tradition and celebration associated with the temple's history and establishment. The Nyatapola temple is a significant heritage site that hosts an annual puja to celebrate its establishment day. It has survived major earthquakes and is supported by the efforts of various individuals and organizations, including the User's Committee. The Gorkha earthquake of 2015 caused partial damage to the top roof tier of the Nyatapola temple.The Nyatapola temple was rebuilt within the years 1951-1955 after being partially affected by the 1934 earthquake. The great Bihar earthquake of 1934 partially affected the Nyatapola temple, causing the collapse of the top roof only. The Nyatapola temple has survived three major earthquakes in Nepal's history. It was partially affected by the great Bihar earthquake of 1934 and suffered partial damage on the top roof tier during the Gorkha earthquake of 2015. They are kept in staircase for guarding. The fifth are stone Byaghrini, two goddesses of supernatural power. The fourth are sarduls or griffins, ten times as strong as the lions.Lions are the guards which are ten times as strong as the elephants. Elephants are the guards which are ten times as strong as the men. The lowest are statues of Jayalla Malla and Patta. Two champions of Bhatgaon Raja, which of whom is said to have had the strength of ten men. The lowest are statues of Jayalla Malla and Patta. Two champions of Bhatgaon Raja, which of whom is said to have had the strength of ten men. The next are elephants, ten times as strong as the men. The third are lions, ten times as strong as the elephants. The fourth are sarduls or griffins, ten times as strong as the lions. And the fifth are stone Byaghrini, two goddesses of supernatural power. There are five carved stones in front of temple. In Nepali language it is commonly interpreted as Five Storey Temple. Four corners are adorned with five miniature shrines in each of the four corners. It has five layers of plinth decks. Five Storey Temple. The temple rests on a square base of five high plinths with five miniature shrines in each of the four corners. The daily Nitya puja is still performed by the authorized Tantric priests, who serve Taleju, the clan deity of the Mallas. Taleju, the clan deity of the Mallas. Nyatapola temple is also regarded as the Agamdyo of Taleju Bhawani of Bhaktapur Durbar square. There are no Jatras are conducted in the name of Nyatapola temple and only limited pujas are offered in the temple. The daily Nitya puja is still performed by the authorized Tantric priests, who serve Taleju, the clan deity of the Mallas. The temple rests on a square base of five high plinths with five miniature shrines in each of the four corners. The Nyatapola temple serves as one of the best amphitheaters during the Jatras to view with its five layers of plinth decks considered as exposed foundation. Nyatapola word consists of two words Nyata means five and Pola literally means roof in Nepal Bhasha is also commonly interpreted as Five Storey Temple.",
+        "qas": [
+            {
+                "id": "1",
+                "is_impossible": false,
+                "question": "What is the significance of the name Nyatapola?",
+                "answers": [
+                    {
+                        "text": "Nyatapola word consists of two words Nyata means five and Pola literally means roof in Nepal Bhasha is also commonly interpreted as Five Storey Temple.",
+                        "answer_start": 5993
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "is_impossible": false,
+                "question": "What does the term Nyatapola mean?",
+                "answers": [
+                    {
+                        "text": "Nyatapola word consists of two words Nyata means five and Pola literally means roof in Nepal Bhasha is also commonly interpreted as Five Storey Temple.",
+                        "answer_start": 5993
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "is_impossible": false,
+                "question": "What is the structure of the Nyatapola temple?",
+                "answers": [
+                    {
+                        "text": "The temple rests on a square base of five high plinths with five miniature shrines in each of the four corners.",
+                        "answer_start": 5116
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "is_impossible": false,
+                "question": "How many plinths does the base of the Nyatapola temple have?",
+                "answers": [
+                    {
+                        "text": "It has five layers of plinth decks.",
+                        "answer_start": 5060
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "is_impossible": false,
+                "question": "What ornaments are placed on the four corners of the temple at Nyatapola?",
+                "answers": [
+                    {
+                        "text": "Four corners are adorned with five miniature shrines in each of the four corners.",
+                        "answer_start": 4978
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "is_impossible": false,
+                "question": "In the local language, what does the term Nyatapola mean?",
+                "answers": [
+                    {
+                        "text": "In Nepali language it is commonly interpreted as Five Storey Temple.",
+                        "answer_start": 4909
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "is_impossible": false,
+                "question": "What do those etched stones represent?",
+                "answers": [
+                    {
+                        "text": "The lowest are statues of Jayalla Malla and Patta.Two champions of Bhatgaon Raja, which of whom is said to have had the strength of ten men. The next are elephants, ten times as strong as the men. The third are lions, ten times as strong as the elephants. The fourth are sarduls or griffins, ten times as strong as the lions. And the fifth are stone Byaghrini, two goddesses of supernatural power.",
+                        "answer_start": 4319
+                    }
+                ]
+            },
+            {
+                "id": "8",
+                "is_impossible": false,
+                "question": "What does the second pair represents ?",
+                "answers": [
+                    {
+                        "text": "Elephants are the guards which are ten times as strong as the men.",
+                        "answer_start": 4252
+                    }
+                ]
+            },
+            {
+                "id": "9",
+                "is_impossible": false,
+                "question": "What does the third pair represents ?",
+                "answers": [
+                    {
+                        "text": "Lions are the guards which are ten times as strong as the elephants.",
+                        "answer_start": 4183
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "is_impossible": false,
+                "question": "What does lion signifies ?",
+                "answers": [
+                    {
+                        "text": "Lions are the guards which are ten times as strong as the elephants.",
+                        "answer_start": 4183
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "is_impossible": false,
+                "question": "What are the top most scluptures ?",
+                "answers": [
+                    {
+                        "text": "The fifth are stone Byaghrini, two goddesses of supernatural power.",
+                        "answer_start": 4046
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "is_impossible": false,
+                "question": "How has the Nyatapola temple been affected by major earthquakes in Nepal's history?",
+                "answers": [
+                    {
+                        "text": "The Nyatapola temple has survived three major earthquakes in Nepal's history. It was partially affected by the great Bihar earthquake of 1934 and suffered partial damage on the top roof tier during the Gorkha earthquake of 2015.",
+                        "answer_start": 3776
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "is_impossible": false,
+                "question": "What was the impact of the great Bihar earthquake of 1934 on the Nyatapola temple?",
+                "answers": [
+                    {
+                        "text": "The great Bihar earthquake of 1934 partially affected the Nyatapola temple, causing the collapse of the top roof only.",
+                        "answer_start": 3657
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "is_impossible": false,
+                "question": "When was the Nyatapola temple rebuilt after being partially affected by the 1934 earthquake, and when was the reconstruction completed?",
+                "answers": [
+                    {
+                        "text": "The Nyatapola temple was rebuilt within the years 1951-1955 after being partially affected by the 1934 earthquake.",
+                        "answer_start": 3542
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "is_impossible": false,
+                "question": "history about this temple ",
+                "answers": [
+                    {
+                        "text": "The Nyatapola temple is a significant heritage site that hosts an annual puja to celebrate its establishment day. It has survived major earthquakes and is supported by the efforts of various individuals and organizations, including the User's Committee.",
+                        "answer_start": 3191
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "is_impossible": false,
+                "question": "What does the flag at top of temple signifies ?",
+                "answers": [
+                    {
+                        "text": "Placing the flag on top of the pinnacle during the establishment day celebration is a symbolic act carried out by the Awals of Tuchimala tole, signifying a tradition and celebration associated with the temple's history and establishment.",
+                        "answer_start": 2953
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "is_impossible": false,
+                "question": "What was the purpose of constructing the Nyatapola temple?",
+                "answers": [
+                    {
+                        "text": "The major propose was to control the aggressive, god Bhairavnath by establishing the tantric goddess Siddhilaxmi according to the inscription.",
+                        "answer_start": 2735
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "is_impossible": false,
+                "question": "What was the goal of the Nyatapola temple's construction?",
+                "answers": [
+                    {
+                        "text": "The major propose was to control the aggressive, god Bhairavnath by establishing the tantric goddess Siddhilaxmi according to the inscription.",
+                        "answer_start": 2735
+                    }
+                ]
+            },
+            {
+                "id": "19",
+                "is_impossible": false,
+                "question": "How long did it take to complete the construction of the Nyatapola temple?",
+                "answers": [
+                    {
+                        "text": "The construction work of this temple was completed within eight month.",
+                        "answer_start": 2470
+                    }
+                ]
+            },
+            {
+                "id": "20",
+                "is_impossible": false,
+                "question": "How long did it take to finish building the Nyatapola temple?",
+                "answers": [
+                    {
+                        "text": "The construction work of this temple was completed within eight month.",
+                        "answer_start": 2470
+                    }
+                ]
+            },
+            {
+                "id": "21",
+                "is_impossible": false,
+                "question": "What was the duration of the Nyatapola temple's construction?",
+                "answers": [
+                    {
+                        "text": "The construction work of this temple was completed within eight month.",
+                        "answer_start": 2470
+                    }
+                ]
+            },
+            {
+                "id": "22",
+                "is_impossible": false,
+                "question": "What's the significance of the temple's architecture?",
+                "answers": [
+                    {
+                        "text": "The temple's architecture represents the five basic elements: earth, water, fire, air, and ether, and is dedicated to the goddess Siddhi Lakshmi.",
+                        "answer_start": 2324
+                    }
+                ]
+            },
+            {
+                "id": "23",
+                "is_impossible": false,
+                "question": "Are there any rituals or ceremonies performed at the temple?",
+                "answers": [
+                    {
+                        "text": "Yes, various rituals and festivals are celebrated at Nyatapola Temple throughout the year, including special ceremonies during Dashain and other Hindu festivals.",
+                        "answer_start": 2019
+                    }
+                ]
+            },
+            {
+                "id": "24",
+                "is_impossible": false,
+                "question": "Exists a local information center or guide where I can find out more about the history of the temple?",
+                "answers": [
+                    {
+                        "text": "Yes, there are usually guides available nearby who can provide detailed information about the temple's history and significance.",
+                        "answer_start": 1661
+                    }
+                ]
+            },
+            {
+                "id": "25",
+                "is_impossible": false,
+                "question": "Can I find out more about the history of the temple from a local information center or guide?",
+                "answers": [
+                    {
+                        "text": "Yes, there are usually guides available nearby who can provide detailed information about the temple's history and significance.",
+                        "answer_start": 1661
+                    }
+                ]
+            },
+            {
+                "id": "26",
+                "is_impossible": false,
+                "question": "Is there a local information office or guide available to provide additional details about the history of the temple?",
+                "answers": [
+                    {
+                        "text": "Yes, there are usually guides available nearby who can provide detailed information about the temple's history and significance.",
+                        "answer_start": 1661
+                    }
+                ]
+            },
+            {
+                "id": "27",
+                "is_impossible": false,
+                "question": "Is photography allowed around the temple?",
+                "answers": [
+                    {
+                        "text": "Yes, photography is usually allowed in the outer areas of the temple, but it's best to ask for permission before taking pictures of specific areas or people.",
+                        "answer_start": 1503
+                    }
+                ]
+            },
+            {
+                "id": "28",
+                "is_impossible": false,
+                "question": "Is the architecture of Nyatapola Temple influenced by any specific cultural or religious beliefs?",
+                "answers": [
+                    {
+                        "text": "Yes, the temple's architecture embodies principles of Hindu cosmology, with each tier symbolizing different elements and aspects of life.",
+                        "answer_start": 820
+                    }
+                ]
+            },
+            {
+                "id": "29",
+                "is_impossible": false,
+                "question": "Is there any particular culture or religion that has impacted Nyatapola Temple's architecture?",
+                "answers": [
+                    {
+                        "text": "Yes, the temple's architecture embodies principles of Hindu cosmology, with each tier symbolizing different elements and aspects of life.",
+                        "answer_start": 820
+                    }
+                ]
+            },
+            {
+                "id": "30",
+                "is_impossible": false,
+                "question": "What benefits does the Nyatapola Temple offer Bhaktapur's tourism sector?",
+                "answers": [
+                    {
+                        "text": "Nyatapola Temple is a major tourist attraction in Bhaktapur, drawing visitors from around the world due to its architectural beauty and cultural significance.",
+                        "answer_start": 661
+                    }
+                ]
+            },
+            {
+                "id": "31",
+                "is_impossible": false,
+                "question": "What is Nyatapola Temple's elevation?",
+                "answers": [
+                    {
+                        "text": "The temple stands at a height of 32.19 meters.",
+                        "answer_start": 476
+                    }
+                ]
+            }
+        ]
+    }
+]
